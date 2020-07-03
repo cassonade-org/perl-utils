@@ -1,1 +1,1 @@
-sudo cp ./source/perl/adduser.pl /usr/bin/add_new_user
+sudo cp adduser.pl /usr/bin/add_new_user
